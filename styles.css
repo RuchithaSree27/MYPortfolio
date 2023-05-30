@@ -397,15 +397,8 @@ nav .fa-solid {
 }
 
 @media only screen and (max-width: 600px) {
-    /* #header {
-        background-image: url(myimage-resize.png);
-    } */
-    .header-text {
-        margin-top: 100%;
-        font-size: 12px;
-    }
-    .header-text h1 {
-        font-size: 12px;
+  .wrapper h3{
+      font-size : 30px;
     }
     nav{
         padding: 0px;
